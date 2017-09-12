@@ -12,7 +12,7 @@ end
 INSTALL_LOC = Dir.home + '/kanka/'
 
 if Dir.exist? INSTALL_LOC
-  puts "Uyaro: ~/kanka zaten var!"
+  puts "Uyarı: ~/kanka zaten var!"
 end
 
 puts "Biz ~/kanka dizinine uygulamayı kuracağız .<shell>rc. Onaylıyorsanız <enter> tuşuna veya e tuşuna basınız."
